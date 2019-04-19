@@ -13,6 +13,7 @@
 		610849092269FFD100D66E53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 610849082269FFD100D66E53 /* Assets.xcassets */; };
 		6108490C2269FFD100D66E53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6108490A2269FFD100D66E53 /* LaunchScreen.storyboard */; };
 		61084914226A000500D66E53 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084913226A000500D66E53 /* MyView.swift */; };
+		61084919226A092700D66E53 /* MyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 61084918226A092700D66E53 /* MyView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6108490B2269FFD100D66E53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6108490D2269FFD100D66E53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61084913226A000500D66E53 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
+		61084918226A092700D66E53 /* MyView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				610849012269FFCF00D66E53 /* AppDelegate.swift */,
 				610849032269FFCF00D66E53 /* ViewController.swift */,
 				610849052269FFCF00D66E53 /* Main.storyboard */,
+				61084918226A092700D66E53 /* MyView.xib */,
 				61084913226A000500D66E53 /* MyView.swift */,
 				610849082269FFD100D66E53 /* Assets.xcassets */,
 				6108490A2269FFD100D66E53 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61084919226A092700D66E53 /* MyView.xib in Resources */,
 				6108490C2269FFD100D66E53 /* LaunchScreen.storyboard in Resources */,
 				610849092269FFD100D66E53 /* Assets.xcassets in Resources */,
 				610849072269FFCF00D66E53 /* Main.storyboard in Resources */,

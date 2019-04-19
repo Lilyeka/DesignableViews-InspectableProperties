@@ -33,5 +33,6 @@ import UIKit
     override func willMove(toSuperview newSuperview: UIView!) {
         self.configure()
     }
+
 }
 
